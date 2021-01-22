@@ -4,3 +4,4 @@ first line
 This line #4
 And this is 5
 6th line added
+7th
